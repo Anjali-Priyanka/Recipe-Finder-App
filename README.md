@@ -101,4 +101,4 @@ Create a responsive and dynamic recipe search application that:
    Try terms like beef, salad, or rice
 
 
-3.
+
